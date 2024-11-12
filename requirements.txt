@@ -13,6 +13,7 @@ executing==2.1.0
 fastjsonschema==2.20.0
 Flask==3.0.3
 fonttools==4.54.1
+groq
 ipykernel==6.29.5
 ipython==8.28.0
 itsdangerous==2.2.0
@@ -47,6 +48,7 @@ referencing==0.35.1
 rpds-py==0.20.0
 scipy==1.14.1
 seaborn==0.13.2
+streamlit
 six==1.16.0
 stack-data==0.6.3
 tenacity==9.0.0
